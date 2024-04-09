@@ -1,0 +1,14 @@
+{
+  "id":"acode.theme.oceanicafternext",
+  "name":"Oceanic After Next(Editor Theme)",
+  "main":"dist/main.js",
+  "version":"4.1.90",
+  "minVersionCode": 1,
+  "readme":"readme.md",
+  "icon":"icon.png",
+  "files":[],
+  "author": {
+    "name":"Muhammad Abrar",
+    "email":"legendabrar44@gmail.com",
+    "github":"abrarishere"
+  }}
